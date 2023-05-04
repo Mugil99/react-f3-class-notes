@@ -1,0 +1,11 @@
+.wa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50vh;
+    font-weight: bold;
+    font-size: x-large;
+}
+.chill{
+   width:300px;
+}
